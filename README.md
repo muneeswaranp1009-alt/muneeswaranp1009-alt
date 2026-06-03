@@ -17,4 +17,4 @@ I am a passionate **BSc Artificial Intelligence and Machine Learning** student d
 I'm always open to discussing tech, ML projects, or gaming. Feel free to reach out!
 - **LinkedIn:** [linkedin.com/in/muneeswaranp](https://www.linkedin.com/in/muneeswaranp)
 
-*"Turning data into decisions."* ⚡
+*"Turning data into decisions."* 
