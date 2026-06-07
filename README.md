@@ -5,7 +5,7 @@
 I am a passionate **BSc Artificial Intelligence and Machine Learning** student dedicated to building intelligent, data-driven solutions. I love experimenting with data, training ML models, and writing clean Python code.
 
 ### 🚀 What I'm up to:
-- 🧠 Deepening my knowledge in **Machine Learning** (Logistic Regression, Decision Trees).
+- 🧠 Deepening my knowledge in **Machine Learning** (Logistic Regression, Decision Trees,RandomForest).
 - 📊 Working with **Data Analysis** (Pandas, NumPy).
 - 💻 Building practical ML applications like predictive models.
 
