@@ -1,4 +1,4 @@
-# muneeswaranp1009-alt-
+# muneeswaranp1009-alt
 
 # Hi there, I'm Muneeswaran P! 👋
 
