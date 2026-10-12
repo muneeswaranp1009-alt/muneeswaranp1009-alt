@@ -7,7 +7,7 @@ I'm a **B.Sc. Artificial Intelligence and Machine Learning student** passionate 
 - Machine Learning & Data Analysis
 - Python and problem-solving
 - Flask and backend fundamentals
-- HTML & CSS
+- SQL
 - Generative AI and modern AI technologies
 
 ## 🛠️ Skills & Tools
