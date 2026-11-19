@@ -12,7 +12,7 @@ I'm a **B.Sc. Artificial Intelligence and Machine Learning student** passionate 
 
 ## 🛠️ Skills & Tools
 
-**Languages:** Python, HTML, CSS
+**Languages:** Python, HTML, CSS , Sql ,R ,Mongo DB
 
 **Data & ML:** Pandas, NumPy, Matplotlib, Scikit-learn
 
